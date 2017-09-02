@@ -1,2 +1,5 @@
-aadasfajlooodadf
-git creating a new branch is quick & simple
+<<<<<<< HEAD
+reating a new branch is quick AND simple
+=======
+reating a new branch is quick AND simple
+>>>>>>> featurel
